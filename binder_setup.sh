@@ -1,3 +1,6 @@
+git config --global user.email "xintong2@illinois.edu"
+git config --global user.name "xin-0"
+
 pip install --upgrade pip
 
 pip install qiskit
